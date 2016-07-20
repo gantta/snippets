@@ -9,7 +9,6 @@
  * Deployment Target: <dev>/<test>/<prod>
  * ****************************************************************/
  
-
 DECLARE @var1 nvarchar(255)
 		,@var2 nvarchar(255)
 
