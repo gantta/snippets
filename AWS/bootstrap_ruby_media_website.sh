@@ -17,8 +17,8 @@ gem install io-console
 /usr/local/bin/bundle exec rake db:migrate
 cat > /home/ec2-user/spl11/tmp/creds.yml << EOF
 region: us-west-2a
-access_key: AKIAI33I2HEADBO2PLQQ
-secret_key: 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
+access_key: <ACCESSKEY>
+secret_key: <SECRETKEY>
 bucket_name: media-thumbnails
 table_name: media-meta-data
 
