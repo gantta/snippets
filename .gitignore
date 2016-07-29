@@ -8,3 +8,4 @@ bin/
 # Config files
 *~.cfg
 *~.config
+configs/
